@@ -1,0 +1,1 @@
+a) An agile development cycle has the benefit of being more flexible to changing product requirements and providing continuous value to the user throughout the development cycle. However, it has the drawback of having less of a concrete plan and requiring more meetings to assign new tasks to the team.
