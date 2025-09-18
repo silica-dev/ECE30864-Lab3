@@ -1,2 +1,6 @@
 a) An agile development cycle has the benefit of being more flexible to changing product requirements and providing continuous value to the user throughout the development cycle. However, it has the drawback of having less of a concrete plan and requiring more meetings to assign new tasks to the team.
 b) The Scrum Master is in charge of maintaining the JIRA board (or equivalent), planning sprints, and running meetings. The Product Owner is less focused on the development cycle and instead manages team direction and manages relations with the end user.
+c) 
+ 1. The Sprint Planning Meeting. This is done before new sprints, and team members should discuss assigning story point and determining which tasks should be done in this sprint.
+ 2. The Daily Scrum/Standup Meeting. This is done daily, and team members should discuss the work they have completed and any blockers to finishing the rest of their work.
+ 3. The Sprint Retrospective Meeting. This is done at the end of the sprint, and team members should discuss what work what completed and decide which tasks need to be moved to the backlog for future work.
